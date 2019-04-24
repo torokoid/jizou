@@ -82,7 +82,7 @@ background-color: rgba(0, 225, 0, 0.8);
 <a href="20190424_006.png" data-lightbox="abc"><img src="20190424_006.png" alt="サンプル画像" width="900" /></a>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h2>
-<a href="https://tabelog.com/tokyo/A1305/A130501/13033804/">お店情報リンク、お店自体のHPはセキュリティー上の問題があるのでリンクせず</a>
+<a href="https://tabelog.com/tokyo/A1305/A130501/13033804/">お店食べログリンク、お店自体のHPはセキュリティー上の問題があるのでリンクせず</a>
 </h2>
 <br><br>
 <section><span class="blue">
