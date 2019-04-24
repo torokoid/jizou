@@ -80,11 +80,11 @@ background-color: rgba(0, 225, 0, 0.8);
 <a href="20190424_004.jpg" data-lightbox="abc"><img src="20190424_004.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20190424_005.jpg" data-lightbox="abc"><img src="20190424_005.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20190424_006.png" data-lightbox="abc"><img src="20190424_006.png" alt="サンプル画像" width="900" /></a>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br>
 <h2>
 <a href="https://tabelog.com/tokyo/A1305/A130501/13033804/">お店食べログリンク、お店自体のHPはセキュリティー上の問題があるのでリンクせず</a>
 </h2>
-<br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <section><span class="blue">
 <!-- begin wwww.htmlcommentbox.com -->
  <div id="HCB_comment_box"><a href="http://www.htmlcommentbox.com">HTML Comment Box</a> is loading comments...</div>
