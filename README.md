@@ -72,7 +72,7 @@ background-color: rgba(0, 225, 0, 0.8);
 <body onload="alert('30期同期会会場「アルテアトロ」〜〜(^o^)/')" onunload="alert('再会の時まで、元気でお過ごしくださいませ〜(^o^)/')">
 -->
 <h1><span class="yellow"><marquee behavior="alternate">〜!!!!!! 2019/06/01_都立大泉高校、30期同期会二次会会場「大馬鹿地蔵」 !!!!!!〜</marquee></span></h1>
-
+<p><a href="https://torokoid.github.io/home">Home</a>><a href="https://torokoid.github.io/oizumi">30期同期会</a>>大馬鹿地蔵</p>
 
 
 <p class="note">
